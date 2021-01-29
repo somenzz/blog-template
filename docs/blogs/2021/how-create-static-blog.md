@@ -1,5 +1,5 @@
 ---
-title: 免费搭建一个简洁优雅的静态博客
+title: 5 分钟搭建一个简洁优雅的静态博客
 date: 2021-01-28 22:00:00
 permalink: /vuepress-github-pages.html
 tags:
