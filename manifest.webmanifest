@@ -1,0 +1,36 @@
+{
+    "name": "somenzz的技术博客",
+    "short_name": "somenzz's Blog",
+    "description": "禅与计算机编程艺术，公众号：Python七号",
+    "lang": "zh-CN",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "#5c92d1",
+    "background_color": "#ffffff",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "32x32",
+            "type": "image/ico"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "关于我",
+            "short_name": "关于我",
+            "icons": [
+                {
+                    "src": "/profile.jpg",
+                    "sizes": "460x460",
+                    "purpose": "maskable",
+                    "type": "image/jpg"
+                }
+            ],
+            "url": "/about/",
+            "description": "关于我"
+        }
+    ]
+}
